@@ -1,4 +1,5 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Welcome to your Mind Terminal (Ai) demo respository
+This code repository (or "repo") is designed 
+To tweak bottle necks and enhance expierments freely
+without force pushing to the main production server. This will help Running test's, enhancing and
+revising functions.
